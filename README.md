@@ -1,7 +1,6 @@
-# Universal-Backgammon-Interface
-Universal Backgammon Interface is a protocol definition to communicate between a UI and a backgammon engine.
-# Unified Backgammon Interface (UBGI) Protocol (Draft 0.01)
+# Universal Backgammon Interface (UBGI) Protocol (Draft 0.01)
 ## Author: Øystein Schønning-Johansen 2025
+Universal Backgammon Interface is a protocol definition to communicate between a UI and a backgammon engine.
 
 This document will describe how a backgammon engine and a user interface (UI) can communicate with each other to separate the concerns of the two processes.
 
