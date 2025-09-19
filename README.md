@@ -86,7 +86,7 @@ and will pick up the hitting part of a move anyway.
 #### Separator
 The from-to pair can be separated by either `-`, `/` or ` `. Each pair (partial move) should be separated by a space.
 
-#### Bar of off
+#### `bar` and `off`
 `25` and `bar` can be used interchangeably, and the same for `off` and `0` - however **no** capital letters.
 
 ### Example of good formatted move strings
